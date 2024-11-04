@@ -1,10 +1,10 @@
 # TODO LIST CON REACT
 
-La apliación está desarrollada usando la libreria de Ract, por lo tanto para que se ejecute en su pc precisará instalar lo siguiente:
+La apliación está desarrollada usando la libreria de React, por lo tanto para que se ejecute en su pc precisará instalar lo siguiente:
 
 - Instalar node js (https://nodejs.org/en/)
-- Instalar Git en su PC (https://git-scm.com/downloads)
-  - Por defecto Git instala una terminal llamada Git Bash, cuyo acceso directo quedará en el escritorio, lo abrimos.
+- Instalar Git (https://git-scm.com/downloads)
+  - Por defecto Git instala una terminal llamada Git Bash, cuyo acceso directo quedará en el escritorio, lo ejecutamos.
   - Crear una carpeta en el directorio de su preferencia (por ejemplo C:\TodoList)
   - Acceder con el Git Bash al directorio creado (ejecuta --> cd C:\TodoList)
   - En dicho directorio ejecuta los siguientes comandos:
